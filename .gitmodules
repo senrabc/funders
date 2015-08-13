@@ -1,0 +1,3 @@
+[submodule "vivo-vagrant"]
+	path = vivo-vagrant
+	url = git@github.com:senrabc/vivo-vagrant.git
