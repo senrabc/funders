@@ -7,7 +7,7 @@
 
 __author__      = "Christopher P. Barnes, senrabc@gmail.com"
 __copyright__   = "Copyright 2014"
-__license__     = "BSD 3-Clause license"
+__license__     = "Apache License 2.0"
 __version__     = "0.1"
 
 
